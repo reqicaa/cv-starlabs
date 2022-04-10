@@ -1,0 +1,66 @@
+{
+  "name": "Milot reqica",
+  "job": "Front End Developer",
+  "adress": "Ali Aliu Kelmendi, Pristhine <br />Kosove",
+  "phonenumber": "38344100160",
+  "email": "reqica.milot@gmail.com",
+  "website": "www.mr.com",
+  "skills": [
+    {
+      "title": "HTML",
+      "percent": 90
+    },
+    {
+      "title": "CSS",
+      "percent": 70
+    },
+    {
+      "title": "JS",
+      "percent": 60
+    },
+    {
+      "title": "JQUERY",
+      "percent": 88
+    }
+  ],
+  "social": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/reqicaa/"
+    },
+    {
+      "title": "LinkedIN",
+      "link": "https://www.linkedin.com/in/milot-reqica-58787815a/"
+    }
+  ],
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque distinctio laboriosam suscipit rerum quos, odio, perspiciatis est veniam architecto obcaecati nam aspernatur explicabo consequuntur! Doloribus.",
+  "exp": [
+    {
+      "title": "2013 - 2015",
+      "subtitle": "Lorem ipsum dolor sit amet",
+      "desc": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non tempora omnis commodi laudantium tenetur ducimus."
+    },
+    {
+      "title": "2015 - 2017",
+      "subtitle": "Lorem ipsum dolor sit amet",
+      "desc": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non tempora omnis commodi laudantium tenetur ducimus."
+    },
+    {
+      "title": "2017 - Present",
+      "subtitle": "Lorem ipsum dolor sit amet",
+      "desc": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non tempora omnis commodi laudantium tenetur ducimus."
+    }
+  ],
+  "education": [
+    {
+      "title": "2010 - 2013",
+      "subtitle": "Computer Science",
+      "desc": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non tempora omnis commodi laudantium tenetur ducimus."
+    },
+    {
+      "title": "2000 - 2013",
+      "subtitle": "High School",
+      "desc": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non tempora omnis commodi laudantium tenetur ducimus."
+    }
+  ]
+}
